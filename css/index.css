@@ -4,6 +4,7 @@ body{
 }
 #testImage{
     background-image: url('../images/manhua.jpg');
+    background-size: contain;
     width: 200px;
     height: 300px;
 }
